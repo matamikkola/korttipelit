@@ -1,0 +1,19 @@
+.theme-selection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.theme-selection h1 {
+  margin-bottom: 20px;
+}
+
+.theme-selection button {
+  font-size: 1.2em;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+

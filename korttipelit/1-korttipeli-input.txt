@@ -1,0 +1,84 @@
+Tee kahden pelaajan selainpohjainen korttipeli, jossa toinen pelaaja on ihminen ja 
+toinen on tietokone (AI). Peli sisältää monta aihetta esimerkiksi autot, laivat tai lentokoneet.
+Peliä pelataan yksi aihe kerrallaan. Ihminen valitsee pelin alussa aiheen valikosta, joka listaa pelattavat vaihtoehdot.
+
+Ainoa ero pelien välillä on json-tiedostot, joissa määritellään pelattavat ominaisuudet.
+Eimerkiksi autot ovat autot.json tiedostossa ja veneet veneet.json tiedostossa. Tarkoitus on, että 
+lisäämällä esimerkiksi pokemonit.json tiedosto peliä voi laajentaa ilman, että itse pelin logiikkaa ja koodia tarvitsee muuttaa muuten, kuin lisäämällä uuden pelin nimi valintavalikkoon ja mahdolliseti import-lause.
+
+Käytä pelin tekemiseen React.js:ää versiota 19.1 ja typescriptiä. Käytä pelin koodaamiseen normaaleja hyväksi 
+havaittuja koodaustapoja. 
+
+Käytä suomen kieltä korteissa.
+Älä käytä create-react-app vaan käytä viten viimeisintä versiota projektin luomisessa.
+Pelin toiminta on kaikilla aiheilla samanlainen ja pelin koodi on mahdollisimman paljon sama kaikille. 
+Projektin nimi on korttipelit.
+
+Esimerkkiaiheena pelin toiminnasta on toisen maailmansodan panssarivaunut.
+Aiheessa on 36 korttia, joista jokainen kuvaa yhden panssarivaunun, jolla on seuraavat ominaisuudet:
+-miehistön lukumäärä
+-paino
+-panssaroinnin suurin paksuus
+-suurin nopeus
+-pääaseen koko
+-valmistusmäärä
+
+Ylläolevat ominaisuudet pitä lisätä objektin aliobjektiin nimeltään ominaisuudet.
+
+Kortissa tulee myös olla panssarivaunun nimi, valmistusmaa ja kuva. Kuvaa pitää saada 
+käyttää tähän tarkoitukseen. Aloita kuvien etsiminen commons.wikipedia.org:sta.
+Käytä kuile seuraavan esimerkin (Panzerkampfwagen III) mukaista polkua:
+https://commons.wikimedia.org/wiki/Panzerkampfwagen_III#/media/File:Panzerkampfwagen_III_5.jpg 
+
+Varmista, että polku on ylläolevan mukainen ja että kuvat todella latautuvat.
+
+Valmistusmaa on suluissa pienemmällä fontilla nimen perässä samalla rivillä. 
+Kaikki kortit ovat yhdenmukaisia ulkoasultaan. 
+
+Pelin kulku on seuraava: Korttipakka sekoitetaan aluksi ja jaetaan pelaajille tasan. 
+Ihmisen kortit ovat ruudun vasemmassa reunassa. Pelaajan pakan ensimmäinen kortti on 
+pelattava kortti. 
+
+Aloittaja arvotaan. Aloittava pelaaja valitsee yhden ominaisuuden kortistaan, ja kysyy 
+sen arvoa toiselta pelaajalta. Kun on AI:n vuoro, niin molemmat kortit voivat olla 
+näkyvillä mutta AI ei saa verrata omaa korttiaan pelaajan korttiin. Korosta AI:n kortissa ominaisuutta, jonka AI valitsee.
+Kun on ihmisen vuoro, AI:n korttia ei saa näyttää ihmiselle. Tee kortille kääntöpuoli, jossa on 
+mustalla kynällä piirretty kuva panssarivaunusta valkoisella pohjalla
+ja näytä se tässä tilanteessa. Vasta kun ihminen on tehnyt valintansa, AI:n 
+kortin etupuoli näytetään. 
+
+Valittavat ominaisuudet ovat kortissa. Tee kortin ominaisuuksiin mouseenter ja mouseleave-eventHandlereitä. 
+Kun hiiri tuodaan ominaisuuden päälle tee hover-tyyppinen toiminnallisuus korostamaan 
+ominaisuutta, jonka päällä hiiren kursori on.
+
+Se kumman arvo on isompi saa vastustajan kortin ja laittaa sen ja kortin jolla voitti 
+oman pakkanssa alimmaiseksi. Kierroksen voittaja saa vuoron ja kysyy jonkin ominaisuuden arvoa toiselta pelaajalta.
+
+Jos korttien arvot ovat samat, kumpikin saa pitää korttinsa ja he
+laittavat ne oman pakkansa alimmaiseksi. Sama pelaaja kysyy uudelleen uudesta kortista.
+
+Lisää kierrosten väliin 3 sekunnin viive. Näytä kierroksen tulos korttien välissä 
+keskellä pystysuunnassa, ei siis korttien ylä- tai alareunan tasolla. Kortit eivät saa liikkua
+kun niiden välissä oleva teksti vaihtuu.
+
+Tätä jatketaan kunnes toisella pelaajalla on kaikki kortit jolloin hän on voittaja. 
+Lopuksi kysy, jos ihminen haluaa pelata uudestaan jotain peliä. Jos hän haluaa, peli alkaa alusta.
+Jos hän ei halua, selaimen ikkunan voi sulkea.
+
+Luo kaksi json tiedostoa. Ensimmäinen on ylläkuvattu panssarivaunut ja toinen on urheiluautot, joita on valmistettu vuosien 1950 ja 2025 välillä. 
+Urheiluautojen ominaisuudet ovat:
+
+-paino
+-suurin nopeus
+-kiihtyvyys 0-100 km/h
+-moottorin iskutilavuus
+-moottorin sylinterimäärä
+-moottorin suurin kierrosluku
+-valmistusmäärä
+-Esittelyvuosi
+
+Myös urheiluautoissa pitää olla nimi, valmistusmaa, 
+kuva sekä urheiluauton kuva kortin kääntöpuolella.
+
+
+

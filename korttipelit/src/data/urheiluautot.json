@@ -1,0 +1,92 @@
+[
+  {
+    "nimi": "Ferrari 250 GTO",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/1962_Ferrari_250_GTO_at_the_2011_Pebble_Beach_Concours_d%27Elegance.jpg/1920px-1962_Ferrari_250_GTO_at_the_2011_Pebble_Beach_Concours_d%27Elegance.jpg",
+    "ominaisuudet": {
+      "paino": 880,
+      "suurin nopeus": 280,
+      "kiihtyvyys 0-100 km/h": 6.1,
+      "moottorin iskutilavuus": 2953,
+      "moottorin sylinterimäärä": 12,
+      "moottorin suurin kierrosluku": 7500,
+      "valmistusmäärä": 36,
+      "esittelyvuosi": 1962
+    }
+  },
+  {
+    "nimi": "Lamborghini Miura",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lamborghini_Miura_P400_S_1969.jpg/1920px-Lamborghini_Miura_P400_S_1969.jpg",
+    "ominaisuudet": {
+      "paino": 1292,
+      "suurin nopeus": 280,
+      "kiihtyvyys 0-100 km/h": 6.7,
+      "moottorin iskutilavuus": 3929,
+      "moottorin sylinterimäärä": 12,
+      "moottorin suurin kierrosluku": 7000,
+      "valmistusmäärä": 764,
+      "esittelyvuosi": 1966
+    }
+  },
+  {
+    "nimi": "Porsche 911",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Porsche_911_Carrera_4S_-_WPOZZZ99ZFS121266.jpg/1920px-Porsche_911_Carrera_4S_-_WPOZZZ99ZFS121266.jpg",
+    "ominaisuudet": {
+      "paino": 1430,
+      "suurin nopeus": 306,
+      "kiihtyvyys 0-100 km/h": 3.7,
+      "moottorin iskutilavuus": 2981,
+      "moottorin sylinterimäärä": 6,
+      "moottorin suurin kierrosluku": 7500,
+      "valmistusmäärä": 1000000,
+      "esittelyvuosi": 1963
+    }
+  },
+  {
+    "nimi": "McLaren F1",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/McLaren_F1_-_Goodwood_Festival_of_Speed_2019.jpg/1920px-McLaren_F1_-_Goodwood_Festival_of_Speed_2019.jpg",
+    "ominaisuudet": {
+      "paino": 1138,
+      "suurin nopeus": 386,
+      "kiihtyvyys 0-100 km/h": 3.2,
+      "moottorin iskutilavuus": 6064,
+      "moottorin sylinterimäärä": 12,
+      "moottorin suurin kierrosluku": 7500,
+      "valmistusmäärä": 106,
+      "esittelyvuosi": 1992
+    }
+  },
+  {
+    "nimi": "Bugatti Veyron",
+    "valmistusmaa": "Ranska",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+    "ominaisuudet": {
+      "paino": 1888,
+      "suurin nopeus": 407,
+      "kiihtyvyys 0-100 km/h": 2.5,
+      "moottorin iskutilavuus": 7993,
+      "moottorin sylinterimäärä": 16,
+      "moottorin suurin kierrosluku": 6600,
+      "valmistusmäärä": 450,
+      "esittelyvuosi": 2005
+    }
+  },
+  {
+    "nimi": "Koenigsegg Agera RS",
+    "valmistusmaa": "Ruotsi",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Koenigsegg_Agera_RS_Geneva_2015.jpg/1920px-Koenigsegg_Agera_RS_Geneva_2015.jpg",
+    "ominaisuudet": {
+      "paino": 1395,
+      "suurin nopeus": 447,
+      "kiihtyvyys 0-100 km/h": 2.8,
+      "moottorin iskutilavuus": 5000,
+      "moottorin sylinterimäärä": 8,
+      "moottorin suurin kierrosluku": 8250,
+      "valmistusmäärä": 25,
+      "esittelyvuosi": 2015
+    }
+  }
+]

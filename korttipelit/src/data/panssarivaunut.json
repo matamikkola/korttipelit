@@ -1,0 +1,80 @@
+[
+  {
+    "nimi": "Panzerkampfwagen III",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/9/9d/PzKpfw_III_Ausf_N_Parola_1.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 23000,
+      "panssaroinnin suurin paksuus": 70,
+      "suurin nopeus": 40,
+      "pääaseen koko": 75,
+      "valmistusmäärä": 5774
+    }
+  },
+  {
+    "nimi": "T-34",
+    "valmistusmaa": "Neuvostoliitto",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/c/c3/T-34-85_at_the_Tank_Museum_in_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 32000,
+      "panssaroinnin suurin paksuus": 90,
+      "suurin nopeus": 55,
+      "pääaseen koko": 85,
+      "valmistusmäärä": 84070
+    }
+  },
+  {
+    "nimi": "M4 Sherman",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/c/c1/M4A3E8_Sherman_in_Aalst.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 30300,
+      "panssaroinnin suurin paksuus": 108,
+      "suurin nopeus": 48,
+      "pääaseen koko": 76,
+      "valmistusmäärä": 50000
+    }
+  },
+  {
+    "nimi": "Panzerkampfwagen VI Tiger",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tiger_I_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 57000,
+      "panssaroinnin suurin paksuus": 120,
+      "suurin nopeus": 38,
+      "pääaseen koko": 88,
+      "valmistusmäärä": 1347
+    }
+  },
+  {
+    "nimi": "KV-1",
+    "valmistusmaa": "Neuvostoliitto",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/KV-1_ehkranami_Parola_1.jpg/1920px-KV-1_ehkranami_Parola_1.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 45000,
+      "panssaroinnin suurin paksuus": 110,
+      "suurin nopeus": 35,
+      "pääaseen koko": 76,
+      "valmistusmäärä": 5219
+    }
+  },
+  {
+    "nimi": "Churchill",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Churchill_VII_in_the_Tank_Museum_Bovington.jpg/1920px-Churchill_VII_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 40700,
+      "panssaroinnin suurin paksuus": 152,
+      "suurin nopeus": 24,
+      "pääaseen koko": 75,
+      "valmistusmäärä": 7368
+    }
+  }
+]

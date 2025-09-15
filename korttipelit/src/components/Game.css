@@ -1,0 +1,34 @@
+.game-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.round-result {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  min-width: 200px;
+  text-align: center;
+  align-self: center;
+  height: 100px; /* Varmistaa, että korkeus ei muutu */
+}
+
+.game-over {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: 2em;
+}
+
+.game-over button {
+  font-size: 0.8em;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
