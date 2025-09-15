@@ -88,5 +88,441 @@
       "valmistusmäärä": 25,
       "esittelyvuosi": 2015
     }
+  },
+  {
+    "nimi": "Jaguar E-Type",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jaguar_E-Type_S1_3.8_FHC_1962.jpg/1920px-Jaguar_E-Type_S1_3.8_FHC_1962.jpg",
+    "ominaisuudet": {
+      "paino": 1256,
+      "suurin nopeus": 241,
+      "kiihtyvyys 0-100 km/h": 7.0,
+      "moottorin iskutilavuus": 3781,
+      "moottorin sylinterimäärä": 6,
+      "moottorin suurin kierrosluku": 5500,
+      "valmistusmäärä": 38419,
+      "esittelyvuosi": 1961
+    }
+  },
+  {
+    "nimi": "Mercedes-Benz 300SL",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mercedes-Benz_300_SL_Coupe_1955.jpg/1920px-Mercedes-Benz_300_SL_Coupe_1955.jpg",
+    "ominaisuudet": {
+      "paino": 1310,
+      "suurin nopeus": 263,
+      "kiihtyvyys 0-100 km/h": 8.8,
+      "moottorin iskutilavuus": 2996,
+      "moottorin sylinterimäärä": 6,
+      "moottorin suurin kierrosluku": 6100,
+      "valmistusmäärä": 1400,
+      "esittelyvuosi": 1954
+    }
+  },
+  {
+    "nimi": "Ferrari F40",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ferrari_F40.jpg/1920px-Ferrari_F40.jpg",
+    "ominaisuudet": {
+      "paino": 1202,
+      "suurin nopeus": 324,
+      "kiihtyvyys 0-100 km/h": 4.1,
+      "moottorin iskutilavuus": 2936,
+      "moottorin sylinterimäärä": 8,
+      "moottorin suurin kierrosluku": 7000,
+      "valmistusmäärä": 1311,
+      "esittelyvuosi": 1987
+    }
+  },
+  {
+    "nimi": "Lamborghini Countach",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lamborghini_Countach_LP400_1974.jpg/1920px-Lamborghini_Countach_LP400_1974.jpg",
+    "ominaisuudet": {
+      "paino": 1490,
+      "suurin nopeus": 295,
+      "kiihtyvyys 0-100 km/h": 5.4,
+      "moottorin iskutilavuus": 4971,
+      "moottorin sylinterimäärä": 12,
+      "moottorin suurin kierrosluku": 7000,
+      "valmistusmäärä": 1983,
+      "esittelyvuosi": 1974
+    }
+  },
+  {
+    "nimi": "Porsche Carrera GT",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Porsche_Carrera_GT_in_Leipzig.jpg/1920px-Porsche_Carrera_GT_in_Leipzig.jpg",
+    "ominaisuudet": {
+      "paino": 1380,
+      "suurin nopeus": 330,
+      "kiihtyvyys 0-100 km/h": 3.9,
+      "moottorin iskutilavuus": 5733,
+      "moottorin sylinterimäärä": 10,
+      "moottorin suurin kierrosluku": 8400,
+      "valmistusmäärä": 1270,
+      "esittelyvuosi": 2004
+    }
+  },
+  {
+    "nimi": "Bugatti Chiron",
+    "valmistusmaa": "Ranska",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/FoS20162016_0624_134448_AA_%2827783882290%29.jpg/1920px-FoS20162016_0624_134448_AA_%2827783882290%29.jpg",
+    "ominaisuudet": {
+      "paino": 1996,
+      "suurin nopeus": 420,
+      "kiihtyvyys 0-100 km/h": 2.4,
+      "moottorin iskutilavuus": 7993,
+      "moottorin sylinterimäärä": 16,
+      "moottorin suurin kierrosluku": 6700,
+      "valmistusmäärä": 500,
+      "esittelyvuosi": 2016
+    }
+  },
+  {
+    "nimi": "Aston Martin DB5",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Aston_Martin_DB5_1963.jpg/1920px-Aston_Martin_DB5_1963.jpg",
+    "ominaisuudet": {
+      "paino": 1502,
+      "suurin nopeus": 230,
+      "kiihtyvyys 0-100 km/h": 8.0,
+      "moottorin iskutilavuus": 3995,
+      "moottorin sylinterimäärä": 6,
+      "moottorin suurin kierrosluku": 5500,
+      "valmistusmäärä": 1059,
+      "esittelyvuosi": 1963
+    }
+  },
+  {
+    "nimi": "Ford GT40",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ford_GT40_Mk_I_Gurney_Weslake.jpg/1920px-Ford_GT40_Mk_I_Gurney_Weslake.jpg",
+    "ominaisuudet": {
+      "paino": 908,
+      "suurin nopeus": 327,
+      "kiihtyvyys 0-100 km/h": 4.2,
+      "moottorin iskutilavuus": 4736,
+      "moottorin sylinterimäärä": 8,
+      "moottorin suurin kierrosluku": 6000,
+      "valmistusmäärä": 105,
+      "esittelyvuosi": 1964
+    }
+  },
+  {
+    "nimi": "Chevrolet Corvette (C2)",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1963_Chevrolet_Corvette_Sting_Ray_Split_Window.jpg/1920px-1963_Chevrolet_Corvette_Sting_Ray_Split_Window.jpg",
+    "ominaisuudet": {
+      "paino": 1417,
+      "suurin nopeus": 225,
+      "kiihtyvyys 0-100 km/h": 5.9,
+      "moottorin iskutilavuus": 5354,
+      "moottorin sylinterimäärä": 8,
+      "moottorin suurin kierrosluku": 5000,
+      "valmistusmäärä": 117964,
+      "esittelyvuosi": 1963
+    }
+  },
+  {
+    "nimi": "Maserati MC12",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Maserati_MC12_2005.jpg/1920px-Maserati_MC12_2005.jpg",
+    "ominaisuudet": {
+      "paino": 1335,
+      "suurin nopeus": 330,
+      "kiihtyvyys 0-100 km/h": 3.8,
+      "moottorin iskutilavuus": 5998,
+      "moottorin sylinterimäärä": 12,
+      "moottorin suurin kierrosluku": 7500,
+      "valmistusmäärä": 50,
+      "esittelyvuosi": 2004
+    }
+  },
+  {
+    "nimi": "Pagani Zonda",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pagani_Zonda_C12-S_7.3.jpg/1920px-Pagani_Zonda_C12-S_7.3.jpg",
+    "ominaisuudet": {
+      "paino": 1250,
+      "suurin nopeus": 330,
+      "kiihtyvyys 0-100 km/h": 3.7,
+      "moottorin iskutilavuus": 7291,
+      "moottorin sylinterimäärä": 12,
+      "moottorin suurin kierrosluku": 6150,
+      "valmistusmäärä": 140,
+      "esittelyvuosi": 1999
+    }
+  },
+  {
+    "nimi": "Lexus LFA",
+    "valmistusmaa": "Japani",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lexus_LFA_at_the_2011_Pebble_Beach_Concours_d%27Elegance.jpg/1920px-Lexus_LFA_at_the_2011_Pebble_Beach_Concours_d%27Elegance.jpg",
+    "ominaisuudet": {
+      "paino": 1480,
+      "suurin nopeus": 325,
+      "kiihtyvyys 0-100 km/h": 3.7,
+      "moottorin iskutilavuus": 4805,
+      "moottorin sylinterimäärä": 10,
+      "moottorin suurin kierrosluku": 9000,
+      "valmistusmäärä": 500,
+      "esittelyvuosi": 2010
+    }
+  },
+  {
+    "nimi": "Nissan GT-R",
+    "valmistusmaa": "Japani",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Nissan_GT-R_Premium.jpg/1920px-2018_Nissan_GT-R_Premium.jpg",
+    "ominaisuudet": {
+      "paino": 1740,
+      "suurin nopeus": 315,
+      "kiihtyvyys 0-100 km/h": 2.8,
+      "moottorin iskutilavuus": 3799,
+      "moottorin sylinterimäärä": 6,
+      "moottorin suurin kierrosluku": 6800,
+      "valmistusmäärä": 40000,
+      "esittelyvuosi": 2007
+    }
+  },
+  {
+    "nimi": "Dodge Viper",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dodge_Viper_SRT-10_ACR.jpg/1920px-Dodge_Viper_SRT-10_ACR.jpg",
+    "ominaisuudet": {
+      "paino": 1556,
+      "suurin nopeus": 325,
+      "kiihtyvyys 0-100 km/h": 3.5,
+      "moottorin iskutilavuus": 8382,
+      "moottorin sylinterimäärä": 10,
+      "moottorin suurin kierrosluku": 6200,
+      "valmistusmäärä": 31500,
+      "esittelyvuosi": 1991
+    }
+  },
+  {
+    "nimi": "Ferrari LaFerrari",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/LaFerrari_in_Beverly_Hills_%2815731143112%29.jpg/1920px-LaFerrari_in_Beverly_Hills_%2815731143112%29.jpg",
+    "ominaisuudet": {
+      "paino": 1585,
+      "suurin nopeus": 349,
+      "kiihtyvyys 0-100 km/h": 2.6,
+      "moottorin iskutilavuus": 6262,
+      "moottorin sylinterimäärä": 12,
+      "moottorin suurin kierrosluku": 9250,
+      "valmistusmäärä": 710,
+      "esittelyvuosi": 2013
+    }
+  },
+  {
+    "nimi": "McLaren P1",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/McLaren_P1_at_Goodwood_2014.jpg/1920px-McLaren_P1_at_Goodwood_2014.jpg",
+    "ominaisuudet": {
+      "paino": 1547,
+      "suurin nopeus": 350,
+      "kiihtyvyys 0-100 km/h": 2.8,
+      "moottorin iskutilavuus": 3799,
+      "moottorin sylinterimäärä": 8,
+      "moottorin suurin kierrosluku": 7500,
+      "valmistusmäärä": 375,
+      "esittelyvuosi": 2013
+    }
+  },
+  {
+    "nimi": "Porsche 918 Spyder",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Porsche_918_Spyder_at_the_2014_Goodwood_Festival_of_Speed.jpg/1920px-Porsche_918_Spyder_at_the_2014_Goodwood_Festival_of_Speed.jpg",
+    "ominaisuudet": {
+      "paino": 1674,
+      "suurin nopeus": 345,
+      "kiihtyvyys 0-100 km/h": 2.6,
+      "moottorin iskutilavuus": 4593,
+      "moottorin sylinterimäärä": 8,
+      "moottorin suurin kierrosluku": 9150,
+      "valmistusmäärä": 918,
+      "esittelyvuosi": 2013
+    }
+  },
+  {
+    "nimi": "Rimac Nevera",
+    "valmistusmaa": "Kroatia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rimac_Nevera_at_The_Quail.jpg/1920px-Rimac_Nevera_at_The_Quail.jpg",
+    "ominaisuudet": {
+      "paino": 2150,
+      "suurin nopeus": 412,
+      "kiihtyvyys 0-100 km/h": 1.97,
+      "moottorin iskutilavuus": 0,
+      "moottorin sylinterimäärä": 0,
+      "moottorin suurin kierrosluku": 12000,
+      "valmistusmäärä": 150,
+      "esittelyvuosi": 2021
+    }
+  },
+  {
+    "nimi": "SSC Tuatara",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2020_SSC_Tuatara.jpg/1920px-2020_SSC_Tuatara.jpg",
+    "ominaisuudet": {
+      "paino": 1247,
+      "suurin nopeus": 475,
+      "kiihtyvyys 0-100 km/h": 2.5,
+      "moottorin iskutilavuus": 5900,
+      "moottorin sylinterimäärä": 8,
+      "moottorin suurin kierrosluku": 8800,
+      "valmistusmäärä": 100,
+      "esittelyvuosi": 2020
+    }
+  },
+  {
+    "nimi": "Hennessey Venom F5",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hennessey_Venom_F5_at_The_Quail.jpg/1920px-Hennessey_Venom_F5_at_The_Quail.jpg",
+    "ominaisuudet": {
+      "paino": 1360,
+      "suurin nopeus": 484,
+      "kiihtyvyys 0-100 km/h": 2.6,
+      "moottorin iskutilavuus": 6600,
+      "moottorin sylinterimäärä": 8,
+      "moottorin suurin kierrosluku": 8000,
+      "valmistusmäärä": 24,
+      "esittelyvuosi": 2021
+    }
+  },
+  {
+    "nimi": "Koenigsegg Jesko",
+    "valmistusmaa": "Ruotsi",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Koenigsegg_Jesko_at_the_2019_Geneva_Motor_Show.jpg/1920px-Koenigsegg_Jesko_at_the_2019_Geneva_Motor_Show.jpg",
+    "ominaisuudet": {
+      "paino": 1420,
+      "suurin nopeus": 483,
+      "kiihtyvyys 0-100 km/h": 2.5,
+      "moottorin iskutilavuus": 5000,
+      "moottorin sylinterimäärä": 8,
+      "moottorin suurin kierrosluku": 8500,
+      "valmistusmäärä": 125,
+      "esittelyvuosi": 2019
+    }
+  },
+  {
+    "nimi": "Aston Martin Valkyrie",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2022_Aston_Martin_Valkyrie.jpg/1920px-2022_Aston_Martin_Valkyrie.jpg",
+    "ominaisuudet": {
+      "paino": 1030,
+      "suurin nopeus": 402,
+      "kiihtyvyys 0-100 km/h": 2.6,
+      "moottorin iskutilavuus": 6500,
+      "moottorin sylinterimäärä": 12,
+      "moottorin suurin kierrosluku": 11100,
+      "valmistusmäärä": 150,
+      "esittelyvuosi": 2021
+    }
+  },
+  {
+    "nimi": "Mercedes-AMG One",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mercedes-AMG_One_IAA_2017_1.jpg/1920px-Mercedes-AMG_One_IAA_2017_1.jpg",
+    "ominaisuudet": {
+      "paino": 1695,
+      "suurin nopeus": 352,
+      "kiihtyvyys 0-100 km/h": 2.9,
+      "moottorin iskutilavuus": 1599,
+      "moottorin sylinterimäärä": 6,
+      "moottorin suurin kierrosluku": 11000,
+      "valmistusmäärä": 275,
+      "esittelyvuosi": 2022
+    }
+  },
+  {
+    "nimi": "Gordon Murray Automotive T.50",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gordon_Murray_Automotive_T.50_at_Goodwood_2021.jpg/1920px-Gordon_Murray_Automotive_T.50_at_Goodwood_2021.jpg",
+    "ominaisuudet": {
+      "paino": 986,
+      "suurin nopeus": 349,
+      "kiihtyvyys 0-100 km/h": 2.8,
+      "moottorin iskutilavuus": 3994,
+      "moottorin sylinterimäärä": 12,
+      "moottorin suurin kierrosluku": 12100,
+      "valmistusmäärä": 100,
+      "esittelyvuosi": 2020
+    }
+  },
+  {
+    "nimi": "Lotus Evija",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2020_Lotus_Evija.jpg/1920px-2020_Lotus_Evija.jpg",
+    "ominaisuudet": {
+      "paino": 1680,
+      "suurin nopeus": 320,
+      "kiihtyvyys 0-100 km/h": 2.9,
+      "moottorin iskutilavuus": 0,
+      "moottorin sylinterimäärä": 0,
+      "moottorin suurin kierrosluku": 10000,
+      "valmistusmäärä": 130,
+      "esittelyvuosi": 2020
+    }
+  },
+  {
+    "nimi": "Pininfarina Battista",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pininfarina_Battista_at_the_2019_Geneva_Motor_Show.jpg/1920px-Pininfarina_Battista_at_the_2019_Geneva_Motor_Show.jpg",
+    "ominaisuudet": {
+      "paino": 1996,
+      "suurin nopeus": 350,
+      "kiihtyvyys 0-100 km/h": 1.86,
+      "moottorin iskutilavuus": 0,
+      "moottorin sylinterimäärä": 0,
+      "moottorin suurin kierrosluku": 12000,
+      "valmistusmäärä": 150,
+      "esittelyvuosi": 2019
+    }
+  },
+  {
+    "nimi": "Ferrari SF90 Stradale",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ferrari_SF90_Stradale_at_IAA_2019.jpg/1920px-Ferrari_SF90_Stradale_at_IAA_2019.jpg",
+    "ominaisuudet": {
+      "paino": 1570,
+      "suurin nopeus": 340,
+      "kiihtyvyys 0-100 km/h": 2.5,
+      "moottorin iskutilavuus": 3990,
+      "moottorin sylinterimäärä": 8,
+      "moottorin suurin kierrosluku": 8000,
+      "valmistusmäärä": 5000,
+      "esittelyvuosi": 2019
+    }
+  },
+  {
+    "nimi": "Lamborghini Revuelto",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lamborghini_Revuelto_at_Goodwood_2023.jpg/1920px-Lamborghini_Revuelto_at_Goodwood_2023.jpg",
+    "ominaisuudet": {
+      "paino": 1772,
+      "suurin nopeus": 350,
+      "kiihtyvyys 0-100 km/h": 2.5,
+      "moottorin iskutilavuus": 6498,
+      "moottorin sylinterimäärä": 12,
+      "moottorin suurin kierrosluku": 9500,
+      "valmistusmäärä": 2000,
+      "esittelyvuosi": 2023
+    }
+  },
+  {
+    "nimi": "Porsche 911 GT3 (992)",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/2022_Porsche_911_GT3_in_Shark_Blue.jpg/1920px-2022_Porsche_911_GT3_in_Shark_Blue.jpg",
+    "ominaisuudet": {
+      "paino": 1435,
+      "suurin nopeus": 318,
+      "kiihtyvyys 0-100 km/h": 3.4,
+      "moottorin iskutilavuus": 3996,
+      "moottorin sylinterimäärä": 6,
+      "moottorin suurin kierrosluku": 9000,
+      "valmistusmäärä": 4000,
+      "esittelyvuosi": 2021
+    }
   }
 ]
+

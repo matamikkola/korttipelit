@@ -76,5 +76,383 @@
       "pääaseen koko": 75,
       "valmistusmäärä": 7368
     }
+  },
+  {
+    "nimi": "Panzerkampfwagen IV",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PzKpfw_IV_Ausf_H_in_the_Tank_Museum_Bovington.jpg/1920px-PzKpfw_IV_Ausf_H_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 25000,
+      "panssaroinnin suurin paksuus": 80,
+      "suurin nopeus": 38,
+      "pääaseen koko": 75,
+      "valmistusmäärä": 8553
+    }
+  },
+  {
+    "nimi": "Panzerkampfwagen V Panther",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Panther_Ausf._G_at_the_Tank_Museum_Bovington.jpg/1920px-Panther_Ausf._G_at_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 44800,
+      "panssaroinnin suurin paksuus": 120,
+      "suurin nopeus": 46,
+      "pääaseen koko": 75,
+      "valmistusmäärä": 6000
+    }
+  },
+  {
+    "nimi": "IS-2",
+    "valmistusmaa": "Neuvostoliitto",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/IS-2_in_the_Tank_Museum_Bovington.jpg/1920px-IS-2_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 4,
+      "paino": 46000,
+      "panssaroinnin suurin paksuus": 160,
+      "suurin nopeus": 37,
+      "pääaseen koko": 122,
+      "valmistusmäärä": 3854
+    }
+  },
+  {
+    "nimi": "M26 Pershing",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/M26_Pershing_in_the_Tank_Museum_Bovington.jpg/1920px-M26_Pershing_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 41900,
+      "panssaroinnin suurin paksuus": 114,
+      "suurin nopeus": 48,
+      "pääaseen koko": 90,
+      "valmistusmäärä": 2212
+    }
+  },
+  {
+    "nimi": "Comet",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Comet_Tank_in_the_Tank_Museum_Bovington.jpg/1920px-Comet_Tank_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 33000,
+      "panssaroinnin suurin paksuus": 102,
+      "suurin nopeus": 51,
+      "pääaseen koko": 77,
+      "valmistusmäärä": 1186
+    }
+  },
+  {
+    "nimi": "Jagdpanther",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jagdpanther_in_the_Tank_Museum_Bovington.jpg/1920px-Jagdpanther_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 45500,
+      "panssaroinnin suurin paksuus": 100,
+      "suurin nopeus": 46,
+      "pääaseen koko": 88,
+      "valmistusmäärä": 415
+    }
+  },
+  {
+    "nimi": "M18 Hellcat",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/M18_Hellcat_in_the_Tank_Museum_Bovington.jpg/1920px-M18_Hellcat_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 17700,
+      "panssaroinnin suurin paksuus": 25,
+      "suurin nopeus": 80,
+      "pääaseen koko": 76,
+      "valmistusmäärä": 2507
+    }
+  },
+  {
+    "nimi": "SU-100",
+    "valmistusmaa": "Neuvostoliitto",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SU-100_in_the_Tank_Museum_Bovington.jpg/1920px-SU-100_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 4,
+      "paino": 31600,
+      "panssaroinnin suurin paksuus": 110,
+      "suurin nopeus": 50,
+      "pääaseen koko": 100,
+      "valmistusmäärä": 4976
+    }
+  },
+  {
+    "nimi": "Cromwell",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cromwell_Tank_in_the_Tank_Museum_Bovington.jpg/1920px-Cromwell_Tank_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 28000,
+      "panssaroinnin suurin paksuus": 76,
+      "suurin nopeus": 64,
+      "pääaseen koko": 75,
+      "valmistusmäärä": 4016
+    }
+  },
+  {
+    "nimi": "M5 Stuart",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/M5A1_Stuart_in_the_Tank_Museum_Bovington.jpg/1920px-M5A1_Stuart_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 4,
+      "paino": 15200,
+      "panssaroinnin suurin paksuus": 67,
+      "suurin nopeus": 58,
+      "pääaseen koko": 37,
+      "valmistusmäärä": 22744
+    }
+  },
+  {
+    "nimi": "Sturmgeschütz III",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sturmgeschutz_III_in_the_Tank_Museum_Bovington.jpg/1920px-Sturmgeschutz_III_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 4,
+      "paino": 23900,
+      "panssaroinnin suurin paksuus": 80,
+      "suurin nopeus": 40,
+      "pääaseen koko": 75,
+      "valmistusmäärä": 10086
+    }
+  },
+  {
+    "nimi": "Matilda II",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Matilda_II_in_the_Tank_Museum_Bovington.jpg/1920px-Matilda_II_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 4,
+      "paino": 26900,
+      "panssaroinnin suurin paksuus": 78,
+      "suurin nopeus": 24,
+      "pääaseen koko": 40,
+      "valmistusmäärä": 2987
+    }
+  },
+  {
+    "nimi": "T-70",
+    "valmistusmaa": "Neuvostoliitto",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/T-70_in_the_Tank_Museum_Bovington.jpg/1920px-T-70_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 2,
+      "paino": 9200,
+      "panssaroinnin suurin paksuus": 60,
+      "suurin nopeus": 45,
+      "pääaseen koko": 45,
+      "valmistusmäärä": 8231
+    }
+  },
+  {
+    "nimi": "Char B1",
+    "valmistusmaa": "Ranska",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Char_B1_bis_in_the_Tank_Museum_Bovington.jpg/1920px-Char_B1_bis_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 4,
+      "paino": 31500,
+      "panssaroinnin suurin paksuus": 60,
+      "suurin nopeus": 28,
+      "pääaseen koko": 75,
+      "valmistusmäärä": 403
+    }
+  },
+  {
+    "nimi": "M10 Wolverine",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/M10_Wolverine_in_the_Tank_Museum_Bovington.jpg/1920px-M10_Wolverine_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 29600,
+      "panssaroinnin suurin paksuus": 57,
+      "suurin nopeus": 48,
+      "pääaseen koko": 76,
+      "valmistusmäärä": 6706
+    }
+  },
+  {
+    "nimi": "Tiger II",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tiger_II_in_the_Tank_Museum_Bovington.jpg/1920px-Tiger_II_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 69800,
+      "panssaroinnin suurin paksuus": 185,
+      "suurin nopeus": 38,
+      "pääaseen koko": 88,
+      "valmistusmäärä": 492
+    }
+  },
+  {
+    "nimi": "ISU-152",
+    "valmistusmaa": "Neuvostoliitto",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISU-152_in_the_Tank_Museum_Bovington.jpg/1920px-ISU-152_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 46000,
+      "panssaroinnin suurin paksuus": 120,
+      "suurin nopeus": 37,
+      "pääaseen koko": 152,
+      "valmistusmäärä": 4635
+    }
+  },
+  {
+    "nimi": "Valentine",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Valentine_in_the_Tank_Museum_Bovington.jpg/1920px-Valentine_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 3,
+      "paino": 16000,
+      "panssaroinnin suurin paksuus": 65,
+      "suurin nopeus": 24,
+      "pääaseen koko": 40,
+      "valmistusmäärä": 8275
+    }
+  },
+  {
+    "nimi": "Type 97 Chi-Ha",
+    "valmistusmaa": "Japani",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Type_97_Chi-Ha_in_the_Tank_Museum_Bovington.jpg/1920px-Type_97_Chi-Ha_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 4,
+      "paino": 15000,
+      "panssaroinnin suurin paksuus": 33,
+      "suurin nopeus": 38,
+      "pääaseen koko": 57,
+      "valmistusmäärä": 2123
+    }
+  },
+  {
+    "nimi": "M3 Lee",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/M3_Lee_in_the_Tank_Museum_Bovington.jpg/1920px-M3_Lee_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 6,
+      "paino": 27900,
+      "panssaroinnin suurin paksuus": 51,
+      "suurin nopeus": 42,
+      "pääaseen koko": 75,
+      "valmistusmäärä": 6258
+    }
+  },
+  {
+    "nimi": "Somua S35",
+    "valmistusmaa": "Ranska",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Somua_S35_in_the_Tank_Museum_Bovington.jpg/1920px-Somua_S35_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 3,
+      "paino": 19500,
+      "panssaroinnin suurin paksuus": 56,
+      "suurin nopeus": 40,
+      "pääaseen koko": 47,
+      "valmistusmäärä": 430
+    }
+  },
+  {
+    "nimi": "Panzer 38(t)",
+    "valmistusmaa": "Tšekkoslovakia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Panzer_38t_in_the_Tank_Museum_Bovington.jpg/1920px-Panzer_38t_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 4,
+      "paino": 9850,
+      "panssaroinnin suurin paksuus": 50,
+      "suurin nopeus": 42,
+      "pääaseen koko": 37,
+      "valmistusmäärä": 1414
+    }
+  },
+  {
+    "nimi": "Crusader",
+    "valmistusmaa": "Iso-Britannia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Crusader_in_the_Tank_Museum_Bovington.jpg/1920px-Crusader_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 3,
+      "paino": 19300,
+      "panssaroinnin suurin paksuus": 51,
+      "suurin nopeus": 42,
+      "pääaseen koko": 57,
+      "valmistusmäärä": 5300
+    }
+  },
+  {
+    "nimi": "BT-7",
+    "valmistusmaa": "Neuvostoliitto",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BT-7_in_the_Tank_Museum_Bovington.jpg/1920px-BT-7_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 3,
+      "paino": 13800,
+      "panssaroinnin suurin paksuus": 22,
+      "suurin nopeus": 72,
+      "pääaseen koko": 45,
+      "valmistusmäärä": 5328
+    }
+  },
+  {
+    "nimi": "Hetzer",
+    "valmistusmaa": "Saksa",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hetzer_in_the_Tank_Museum_Bovington.jpg/1920px-Hetzer_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 4,
+      "paino": 15750,
+      "panssaroinnin suurin paksuus": 60,
+      "suurin nopeus": 42,
+      "pääaseen koko": 75,
+      "valmistusmäärä": 2827
+    }
+  },
+  {
+    "nimi": "Carro Armato M13/40",
+    "valmistusmaa": "Italia",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/M13-40_in_the_Tank_Museum_Bovington.jpg/1920px-M13-40_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 4,
+      "paino": 14000,
+      "panssaroinnin suurin paksuus": 42,
+      "suurin nopeus": 32,
+      "pääaseen koko": 47,
+      "valmistusmäärä": 799
+    }
+  },
+  {
+    "nimi": "7TP",
+    "valmistusmaa": "Puola",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/7TP_in_the_Tank_Museum_Bovington.jpg/1920px-7TP_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 3,
+      "paino": 9900,
+      "panssaroinnin suurin paksuus": 17,
+      "suurin nopeus": 37,
+      "pääaseen koko": 37,
+      "valmistusmäärä": 132
+    }
+  },
+  {
+    "nimi": "T-26",
+    "valmistusmaa": "Neuvostoliitto",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/T-26_in_the_Tank_Museum_Bovington.jpg/1920px-T-26_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 3,
+      "paino": 9600,
+      "panssaroinnin suurin paksuus": 15,
+      "suurin nopeus": 32,
+      "pääaseen koko": 45,
+      "valmistusmäärä": 10300
+    }
+  },
+  {
+    "nimi": "M24 Chaffee",
+    "valmistusmaa": "Yhdysvallat",
+    "kuva": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/M24_Chaffee_in_the_Tank_Museum_Bovington.jpg/1920px-M24_Chaffee_in_the_Tank_Museum_Bovington.jpg",
+    "ominaisuudet": {
+      "miehistön lukumäärä": 5,
+      "paino": 18400,
+      "panssaroinnin suurin paksuus": 38,
+      "suurin nopeus": 56,
+      "pääaseen koko": 75,
+      "valmistusmäärä": 4731
+    }
   }
 ]
+

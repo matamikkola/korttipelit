@@ -19,7 +19,8 @@ const Game: React.FC<GameProps> = ({ theme }) => {
   const [gameOver, setGameOver] = useState(false);
 
   useEffect(() => {
-    const data = theme === 'panssarivaunut' ? panssarivaunutData : urheiluautotData;
+    const data =
+      theme === 'panssarivaunut' ? panssarivaunutData : urheiluautotData;
     const shuffled = [...data].sort(() => Math.random() - 0.5);
     setHumanDeck(shuffled.slice(0, shuffled.length / 2));
     setAiDeck(shuffled.slice(shuffled.length / 2));
@@ -41,11 +42,12 @@ const Game: React.FC<GameProps> = ({ theme }) => {
     if (turn === 'ai' && !gameOver && aiDeck.length > 0) {
       const aiCard = aiDeck[0];
       if (!aiCard) return;
-      
+
       setIsAiCardFaceDown(false); // Show AI card immediately on its turn
       const properties = Object.keys(aiCard.ominaisuudet);
-      const randomProperty = properties[Math.floor(Math.random() * properties.length)];
-      
+      const randomProperty =
+        properties[Math.floor(Math.random() * properties.length)];
+
       // AI "thinks" for a moment, then reveals its choice by highlighting it
       setTimeout(() => {
         setSelectedProperty(randomProperty);
@@ -55,16 +57,16 @@ const Game: React.FC<GameProps> = ({ theme }) => {
         }, 2000); // This is part of the 3s total delay
       }, 1000);
     } else if (turn === 'human') {
-        // When it becomes human's turn, make sure AI card is face down
-        setIsAiCardFaceDown(true);
-        setSelectedProperty(null); // Clear previous selection
+      // When it becomes human's turn, make sure AI card is face down
+      setIsAiCardFaceDown(true);
+      setSelectedProperty(null); // Clear previous selection
     }
   }, [turn, aiDeck, gameOver]);
 
   const handlePropertyClick = (property: string) => {
     // Allow selection only if it's human's turn and no property is currently selected for comparison
     if (turn !== 'human' || selectedProperty) return;
-    
+
     setSelectedProperty(property);
     setIsAiCardFaceDown(false); // Reveal AI card
 
@@ -128,30 +130,30 @@ const Game: React.FC<GameProps> = ({ theme }) => {
 
   if (gameOver) {
     return (
-      <div className="game-over">
+      <div className='game-over'>
         <h1>{humanDeck.length === 0 ? 'Hävisit pelin!' : 'Voitit pelin!'}</h1>
-        <button onClick={() => window.location.reload()}>Pelaa uudestaan</button>
+        <button onClick={() => window.location.reload()}>
+          Pelaa uudestaan
+        </button>
       </div>
     );
   }
 
   return (
-    <div className="game-container">
+    <div className='game-container'>
       <PlayerDeck
         cards={humanDeck}
-        playerType="human"
+        playerType='human'
         isAiCardFaceDown={false}
         onPropertyClick={handlePropertyClick}
         selectedProperty={selectedProperty}
         theme={theme}
         isHumanTurn={turn === 'human' && !selectedProperty}
       />
-      <div className="round-result">
-        {roundResult}
-      </div>
+      <div className='round-result'>{roundResult}</div>
       <PlayerDeck
         cards={aiDeck}
-        playerType="ai"
+        playerType='ai'
         isAiCardFaceDown={isAiCardFaceDown}
         onPropertyClick={() => {}} // AI doesn't click
         selectedProperty={selectedProperty}
